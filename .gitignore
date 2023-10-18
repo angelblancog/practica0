@@ -1,7 +1,7 @@
 *.csv
 *.venv
 *.env
-*.txt
+#*.txt
 *.xlsx
 *.pdf
 *.ppt
